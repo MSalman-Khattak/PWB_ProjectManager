@@ -1,0 +1,32 @@
+{
+    "name": "project2.0",
+    "version": "1.0.0",
+    "description": "Node.js Rest Apis with Express,Sequence & Mysql",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "sequence",
+        "mysql",
+        "rest",
+        "api"
+    ],
+    "author": "Yasin",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "hbs": "^4.2.0",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3",
+        "nodemon": "^2.0.16",
+        "sequence": "^3.0.0"
+    }
+
+
+}
