@@ -8,25 +8,61 @@ User Authentication:
 Users can sign up or log in as guests or hosts.
 Guest signup requires basic details like name, email, and phone number.
 Host signup requires additional information about the property being listed.
+
 Guest Module:
 Search for Places:
 Guests can search for places based on location, dates, and number of guests.
 Filters such as price range, property type, and amenities are available.
+
 Reserve Place:
 After selecting a place, guests can view details and reserve it for their desired dates.
 They can add reviews for places they've stayed and manage their wishlists.
+
 Host Module:
+
 Add New Listing:
 Hosts can add their properties to the platform by providing detailed information including property type, space type, location, amenities, and pricing.
+
 Manage Listing:
 Hosts can update existing listings, add new properties, or remove listings as needed.
 They can view reservations, including current, upcoming, and past reservations.
+
 Approve/Reject Reservations:
 Hosts have the option to approve or reject reservation requests from guests.
+
 Reservation Management:
 Both guests and hosts can view and manage reservations.
 Guests can see the status of their reservations and receive notifications upon approval or rejection.
 Hosts can manage reservations for their properties, approve or reject requests, and view details of upcoming and past reservations.
+
+Appendix A: Property Type:
+
+Apartment
+House
+Bed and Bath
+Hotel
+
+Appendix B: Space Type:
+
+Entire House
+Private Room
+Shared Room
+
+Appendix C: Amenities:
+
+Pool
+Hot Tub
+BBQ Grill
+Fire Pit
+Outdoor Dining Area
+Indoor Fireplace
+WiFi
+TV
+Air Conditioning
+Washer
+Kitchen
+Free Parking
+
 Technical Implementation:
 
 The project is implemented using Python for backend operations and JavaScript for frontend interactions.
