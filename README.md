@@ -67,6 +67,13 @@ Adding support for multiple languages and currencies to cater to a global audien
 - guestsignup.js: JavaScript file for guest signup functionality.
 - hostapartment.js: JavaScript file for hosting apartments.
 
+
+APP.js is the main JavaScript file handling the core functionalities of the application.
+Server.js manages the server-side operations.
+Database.js interacts with the database for storing and retrieving data.
+Package.js manages dependencies.
+Authentication.js handles user authentication using JWT tokens.
+
 ## Usage
 
 1. Clone the repository: `git clone <repository-url>`
